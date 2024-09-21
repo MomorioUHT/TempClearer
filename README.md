@@ -19,7 +19,7 @@ The output executable file will be at
 Enjoy!
 
 ## Screenshots
-<img src="https://i.ibb.co/7jDHL9c/1111.png" alt="1111">
+<img src="https://i.ibb.co/Dp618XS/113131.png" alt="113131" border="0"/>
 
 <img src="https://i.ibb.co/pLSbQby/222.png" alt="222">
 

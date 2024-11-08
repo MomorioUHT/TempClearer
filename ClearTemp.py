@@ -54,8 +54,8 @@ def clear_temp_folder(temp_folder_path):
     print(f"Number of files: {file_count}")
     print(f"Number of directories: {dir_count}")
     
-    print("The process will start within 5 seconds...")
-    time.sleep(5)
+    print("The process will start within 2 seconds...")
+    time.sleep(2)
 
     if not os.path.exists(temp_folder_path):
         print(f"The directory {temp_folder_path} does not exist.")
@@ -82,8 +82,6 @@ def clear_temp_folder(temp_folder_path):
 |       ||       || | |   ||   |___  __  
 |______| |_______||_|  |__||_______||__| 
           """)
-    print("The program will close in 3 seconds...")
-    time.sleep(3)
     print("Exiting...")
 
 temp_folder = tempfile.gettempdir()
